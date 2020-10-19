@@ -1,9 +1,10 @@
 
 # CZ1015 - Introduction to Data Science and Artificial Intelligence
 
+In this module, I have learnt basic data handling, statistics, exploratory data analysis, linear regression, classification trees, clustering algorithms, data visualization and dashboards in Python.
+
 ## Mini Project Title: Can we predict happiness? 
 
-In this module, I have learnt basic data handling, statistics, exploratory data analysis, linear regression, classification trees, clustering algorithms, data visualization and dashboards in Python.
 
 In this project, I worked in a team of 3 (myself, Min Hui, Ezekiel) to tackle the question: Can we predict happiness? 
 
